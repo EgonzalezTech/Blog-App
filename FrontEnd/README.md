@@ -3,6 +3,11 @@
 This project is a **modern full-stack web application** combining a **React frontend** (powered by Vite) with a **Django 5.1 backend** and **PostgreSQL** database.  
 It includes **JWT authentication**, a **custom API**, **rich text editing**, **charts**, **PayPal integration**, and a fully customized **Django admin panel (Jazzmin)**.
 
+![alt text](image-2.png)
+![alt text](image.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+
 ---
 
 ## 🚀 Tech Stack
